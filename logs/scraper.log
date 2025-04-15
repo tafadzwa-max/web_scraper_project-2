@@ -53,3 +53,7 @@
 2025-04-14 16:04:10,880 - INFO - Starting scrape job
 2025-04-14 16:04:15,280 - INFO - \u2705 Scraped and saved 10 job(s).
 2025-04-14 16:04:15,284 - INFO - \u23f0 Scheduled job scraper started.
+2025-04-15 05:16:18,638 - INFO - Starting scrape job
+2025-04-15 05:16:18,655 - ERROR - Error fetching job cards: HTTPSConnectionPool(host='vacancymail.co.zw', port=443): Max retries exceeded with url: /jobs/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001A930AA86E0>: Failed to resolve 'vacancymail.co.zw' ([Errno 11001] getaddrinfo failed)"))
+2025-04-15 05:16:18,655 - WARNING -  No job data scraped.
+2025-04-15 05:16:18,657 - INFO - Scheduled job scraper started.

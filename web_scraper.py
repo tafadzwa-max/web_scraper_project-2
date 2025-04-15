@@ -75,7 +75,7 @@ def clean_data(data):
     return df
 
 def scrape_and_save():
-    print("🚀 Script is running...")
+    print(" Script is running...")
     logging.info("Starting scrape job")
 
     job_cards = fetch_job_cards()
@@ -97,16 +97,16 @@ def scrape_and_save():
             combined.drop_duplicates(subset=["Job Title", "Company"], inplace=True)
             combined.to_csv("scraped_data.csv", index=False)
 
-        logging.info(f"✅ Scraped and saved {len(df)} job(s).")
-        print(f"✅ Scraped and saved {len(df)} job(s).")
+        logging.info(f" Scraped and saved {len(df)} job(s).")
+        print(f" Scraped and saved {len(df)} job(s).")
     else:
-        logging.warning("⚠ No job data scraped.")
-        print("⚠ No job data scraped.")
+        logging.warning(" No job data scraped.")
+        print("No job data scraped.")
 
 def run_scheduled_scraping():
     schedule.every().day.at("09:00").do(scrape_and_save)
-    logging.info("⏰ Scheduled job scraper started.")
-    print("⏰ Scheduler started: Scraping every 24 hours.")
+    logging.info("Scheduled job scraper started.")
+    print(" Scheduler started: Scraping every 24 hours.")
     while True:
         schedule.run_pending()
         time.sleep(60)
