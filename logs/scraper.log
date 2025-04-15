@@ -1,0 +1,55 @@
+2025-04-14 10:51:03,610 - INFO - Starting scrape job
+2025-04-14 10:51:04,718 - WARNING - No job data scraped.
+2025-04-14 10:51:04,718 - INFO - Scheduled job scraper started.
+2025-04-14 10:57:10,651 - INFO - Starting scrape job
+2025-04-14 10:57:11,514 - WARNING - No job data scraped.
+2025-04-14 10:57:11,515 - INFO - Scheduled job scraper started.
+2025-04-14 10:59:19,600 - INFO - Starting scrape job
+2025-04-14 10:59:20,445 - WARNING - No job data scraped.
+2025-04-14 10:59:20,445 - INFO - Scheduled job scraper started.
+2025-04-14 11:14:32,984 - INFO - Starting scrape job
+2025-04-14 11:14:34,120 - WARNING - No job data scraped.
+2025-04-14 11:14:34,122 - INFO - Scheduled job scraper started.
+2025-04-14 11:19:55,190 - INFO - Starting scrape job
+2025-04-14 11:19:56,078 - WARNING - No job data scraped.
+2025-04-14 11:19:56,079 - INFO - Scheduled job scraper started.
+2025-04-14 14:18:00,306 - INFO - Starting scrape job
+2025-04-14 14:18:01,406 - WARNING - No job data scraped.
+2025-04-14 14:18:01,407 - INFO - Scheduled job scraper started.
+2025-04-14 14:21:04,684 - INFO - Starting scrape job
+2025-04-14 14:21:05,600 - WARNING - No job data scraped.
+2025-04-14 14:21:05,600 - INFO - Scheduled job scraper started.
+2025-04-14 14:26:54,370 - INFO - Starting scrape job
+2025-04-14 14:26:59,210 - WARNING - No job data scraped.
+2025-04-14 14:26:59,211 - INFO - Scheduled job scraper started.
+2025-04-14 14:38:32,609 - ERROR - Failed to scrape https://vacancymail.co.zw/jobs/view/panel-beater-34567: 404 Client Error: Not Found for url: https://vacancymail.co.zw/jobs/view/panel-beater-34567
+2025-04-14 14:38:32,614 - INFO - Starting scrape job
+2025-04-14 14:38:33,564 - WARNING - No job data scraped.
+2025-04-14 14:38:33,565 - INFO - Scheduled job scraper started.
+2025-04-14 14:44:45,313 - ERROR - Failed to scrape https://vacancymail.co.zw/jobs/view/panel-beater-34567: 404 Client Error: Not Found for url: https://vacancymail.co.zw/jobs/view/panel-beater-34567
+2025-04-14 14:44:45,317 - INFO - Starting scrape job
+2025-04-14 14:44:46,396 - WARNING - No job data scraped.
+2025-04-14 14:44:46,397 - INFO - Scheduled job scraper started.
+2025-04-14 14:52:35,049 - INFO - Starting scrape job
+2025-04-14 14:52:36,266 - WARNING - No job data scraped.
+2025-04-14 14:52:36,268 - INFO - Scheduled job scraper started.
+2025-04-14 15:15:55,496 - INFO - Starting scrape job
+2025-04-14 15:15:56,829 - WARNING - No job data scraped.
+2025-04-14 15:15:56,830 - INFO - Scheduled job scraper started.
+2025-04-14 15:22:08,508 - INFO - Starting scrape job
+2025-04-14 15:22:09,699 - WARNING - No job data scraped.
+2025-04-14 15:22:09,699 - INFO - Scheduled job scraper started.
+2025-04-14 15:33:59,571 - INFO - Starting scrape job
+2025-04-14 15:34:02,252 - WARNING - No job data scraped.
+2025-04-14 15:34:02,253 - INFO - Scheduled job scraper started.
+2025-04-14 15:49:12,682 - INFO - Starting scrape job
+2025-04-14 15:49:13,743 - WARNING - No job data scraped.
+2025-04-14 15:49:13,743 - INFO - Scheduled job scraper started.
+2025-04-14 15:54:22,341 - INFO - Starting scrape job
+2025-04-14 15:54:23,824 - WARNING - \u26a0 No job cards found. Check if class name has changed.
+2025-04-14 15:54:23,826 - WARNING - No job data scraped.
+2025-04-14 15:54:23,827 - INFO - Scheduled job scraper started.
+2025-04-14 16:01:43,095 - INFO - Starting scrape job
+2025-04-14 16:04:10,880 - INFO - Starting scrape job
+2025-04-14 16:04:15,280 - INFO - \u2705 Scraped and saved 10 job(s).
+2025-04-14 16:04:15,284 - INFO - \u23f0 Scheduled job scraper started.
